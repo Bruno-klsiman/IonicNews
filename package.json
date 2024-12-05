@@ -1,0 +1,10 @@
+{
+  "dependencies": {
+    "@ionic/storage": "^4.0.0",
+    "@ionic/storage-angular": "^4.0.0",
+    "axios": "^1.7.7",
+    "chart.js": "^4.4.6",
+    "localforage": "^1.10.0",
+    "react-chartjs-2": "^5.2.0"
+  }
+}
